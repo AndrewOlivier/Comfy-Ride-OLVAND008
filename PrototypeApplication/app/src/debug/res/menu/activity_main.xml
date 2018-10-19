@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/context_menu" android:checkableBehavior="single">
+        <item android:id="@+id/a"
+            android:title="Hatch Back" >
+        </item>
+        <item android:id="@+id/b"
+            android:title="50">
+        </item>
+        <item android:id="@+id/c"
+            android:title="40">
+        </item>
+        <item android:id="@+id/d"
+            android:title="30">
+        </item>
+        <item android:id="@+id/e"
+            android:title="20">
+        </item>
+        <item android:id="@+id/f"
+            android:title="10">
+        </item>
+    </group>
+</menu>
